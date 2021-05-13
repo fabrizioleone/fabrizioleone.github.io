@@ -7,8 +7,6 @@ redirect_from:
   - /contacts
 ---
 
-Contacts
-------
 
 **Email**: <a href="mailto:fabrizio.leone@ulb.ac.be">fabrizio.leone@ulb.ac.be</a>
 
