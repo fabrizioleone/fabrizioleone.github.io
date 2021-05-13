@@ -12,7 +12,7 @@ I am a PhD Candidate in Economics at [Université Libre de Bruxelles - ECARES](h
 
 My research interests are:
 
-* **Primary Fields**: International trade, Industrial Organization.
+* **Primary Fields**: International Trade, Industrial Organization.
 * **Secondary Fields**: Development, Labour Economics.
 
 
