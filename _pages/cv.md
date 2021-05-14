@@ -21,7 +21,7 @@ Education
 
 Work in Progress
 ======
-* "Multinationals Enterprises and Robotization".
+* "Multinational Enterprises, Technology Transfers and Robot Adoption".
 * "Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry", with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" target="_blank">N. Pavanini</a>.
 * "Multinational Production Networks and Trade Participation", with <a href="https://sites.google.com/view/paola-conconi-website/" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" target="_blank">G. Magerman</a> and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" target="_blank">C. Thomas</a>.
 * "Why Was Cement so Expensive in Africa?", with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>.
