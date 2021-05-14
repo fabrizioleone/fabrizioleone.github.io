@@ -1,20 +1,5 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* International Trade, Université Libre de Bruxelles - Bachelor Spring 2021.
+* Advanced International Trade, Université Libre de Bruxelles - Master Spring 2021.
+* Advanced International Trade, Université Libre de Bruxelles - Master Spring 2020.
+* Dynamic Macroeconomics, Universidad Carlos III de Madrid - Bachelor Spring 2017.
+* International Political Economy, Universidad Carlos III de Madrid - Bachelor Fall 2016.
