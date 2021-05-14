@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at [Université Libre de Bruxelles - ECARES](https://ecares.ulb.be/)
+I am a PhD Candidate in Economics at <a href="https://ecares.ulb.be/" target="_blank">Université Libre de Bruxelles - ECARES</a>. My supervisors are <a href="http://mathieuparenti.weebly.com/" target="_blank">Mathieu Parenti</a> and <a href="https://sites.google.com/view/paola-conconi-website/" target="_blank">Paola Conconi</a>.
+
+My research interests span international trade and industrial organization, with a focus on multinational enterprises, value chains and technological change. I am also interested in development and labour economics.  
 
 Research interests:
 
