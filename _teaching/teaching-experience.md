@@ -8,9 +8,6 @@ date: 2018-01-01
 location: "Madrid, Spain"
 ---
 
-During my Ph.D.
-Academic Year 2017 - 2018
-======
 
 * International Trade, Université Libre de Bruxelles - Bachelor Spring 2021.
 * Advanced International Trade, Université Libre de Bruxelles - Master Spring 2021.
