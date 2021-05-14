@@ -1,11 +1,11 @@
 ---
-title: "Teaching Experience at Universidad Carlos III de Madrid"
+title: ""
 collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching-experience
-venue: "Universidad Carlos III de Madrid, Department of Economics"
-date: 2018-01-01
-location: "Madrid, Spain"
+venue: ""
+date: 2018
+location: ""
 ---
 
 
