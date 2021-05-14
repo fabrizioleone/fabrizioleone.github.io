@@ -14,7 +14,7 @@ Education
 * PhD in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2023 (Expected).
 * Mres in Economics, Tilburg University, 2017 - 2019 (with distinction).
 * Msc in Economic Analysis, Carlos III University of Madrid, 2015 - 2017.
-* Bsc in Economics, Tor Vergata University of Rome, 2012 - 2015.
+* Bsc in Economics, Tor Vergata University of Rome, 2012 - 2015 (with distinction).
 
 Work in Progress
 ======
