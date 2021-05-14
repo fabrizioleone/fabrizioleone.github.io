@@ -1,16 +1,19 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+Working Papers 
+-----
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* <a href="https://drive.google.com/file/d/14ksMRepTuYuAFa6OjyUz3EDXqk0T2etJ/view">"Why Was Cement so Expensive in Africa?"</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, May 2021.
+ 
+Work in Progress
+-----
+
+* "Multinational Enterprises, Technology Transfers and Robot Adoption".
+* "Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry", joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" target="_blank">N. Pavanini</a>.
+* "Multinational Production Networks and Trade Participation", joint with <a href="https://sites.google.com/view/paola-conconi-website/" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" target="_blank">G. Magerman</a> and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" target="_blank">C. Thomas</a>.
