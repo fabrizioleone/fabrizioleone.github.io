@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can find the complete version of my CV <a href="https://www.dropbox.com/s/nzxgy9t6r7ox7q8/CV_FL.pdf?dl=0">here</a>.
+
 Education
 ======
 * PhD in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2023 (Expected).
