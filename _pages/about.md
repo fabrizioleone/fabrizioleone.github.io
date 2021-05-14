@@ -14,8 +14,8 @@ My research interests span international trade and industrial organization, with
 
 Research interests:
 
-* **Primary Fields**: International Trade, Industrial Organization.
-* **Secondary Fields**: Development, Labour Economics.
+* Primary Fields: International Trade, Industrial Organization.
+* Secondary Fields: Development, Labour Economics.
 
 
 
