@@ -11,49 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Economics, Université Libre de Bruxelles (ECARES), 2019 - 2023 (Expected).
+* Mres in Economics, Tilburg University, 2017 - 2019 (with distinction).
+* Msc in Economic Analysis, Carlos III University of Madrid, 2015 - 2017.
+* Bsc in Economics, Tor Vergata University of Rome, 2012 - 2015.
 
-Work experience
+Work in Progress
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* "Multinationals Enterprises and Robotization".
+* "Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry", with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" target="_blank">N. Pavanini</a>.
+* "Multinational Production Networks and Trade Participation", with <a href="https://sites.google.com/view/paola-conconi-website/" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/">G. Magerman</a> and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas">C. Thomas</a>.
+* "Why Was Cement so Expensive in Africa?", with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>.
+  
+Teaching Experience
+======
+* International Trade, Université Libre de Bruxelles - Bachelor Spring 2021.
+* Advanced International Trade, Université Libre de Bruxelles - Master Spring 2021.
+* Advanced International Trade, Université Libre de Bruxelles - Master Spring 2020.
+* Dynamic Macroeconomics, Universidad Carlos III de Madrid - Bachelor Spring 2017.
+* International Political Economy, Universidad Carlos III de Madrid - Bachelor Fall 2016.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Unpaid Consultant for Instituto del Caffé de Costa Rica (ICAFE) Spring 2021.
+* Traineeship (Research Program for Young Researchers) at National Bank of Belgium 2020 - 2021.
+* Research Assistant for <a href="https://economics.mit.edu/faculty/acemoglu">D. Acemoglu</a>, <a href="https://vasco-m-carvalho.github.io/">V. Carvalho</a>, <a href="http://www.glennmagerman.com/">G. Magerman</a> and <a href="https://sites.northwestern.edu/alirezat/"> A. Tahbaz-Salehi</a>, Spring 2020.
+* Research Assistant for "Learning from the Curve - Real Time Analysis of the COVID19" project, Fall 2020.
+* Research Assistant for <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" target="_blank">N. Pavanini</a>, Spring 2019.
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
