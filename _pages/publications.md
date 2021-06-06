@@ -9,7 +9,7 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://drive.google.com/file/d/14ksMRepTuYuAFa6OjyUz3EDXqk0T2etJ/view" target="_blank">"Why Was the Price of Cement so High in Africa?"</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, May 2021.
+* <a href="https://drive.google.com/file/d/14ksMRepTuYuAFa6OjyUz3EDXqk0T2etJ/view" target="_blank">"Why Was the Price of Cement so High in Africa?"</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, 2021.
  
 Work in Progress
 -----
