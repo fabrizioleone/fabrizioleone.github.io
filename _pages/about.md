@@ -12,10 +12,7 @@ I am a PhD Candidate in Economics at <a href="https://ecares.ulb.be/" target="_b
 
 My research interests span international trade and industrial organization, with a focus on multinational enterprises, value chains, and technological change. I am also interested in development and labour economics.  
 
-Research interests:
 
-* Primary Fields: International Trade, Industrial Organization.
-* Secondary Fields: Development, Labour Economics.
 
 
 
