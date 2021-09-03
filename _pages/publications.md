@@ -9,7 +9,7 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://drive.google.com/file/d/14ksMRepTuYuAFa6OjyUz3EDXqk0T2etJ/view" target="_blank">"The Falling Price of Cement in Africa"</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, 2021 [<a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16253" target="_blank">CEPR Discussion Paper 16253</a>] [<a href="https://www.ibread.org/working-paper/bread-working-paper-no-589-june-2021/" target="_blank">BREAD Working Paper No. 589</a>].
+* <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16253" target="_blank">The Falling Price of Cement in Africa</a> (CEPR DP 16253), joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, 2021.
 
 
  
