@@ -9,7 +9,7 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16253" target="_blank">The Falling Price of Cement in Africa</a> (CEPR DP 16253), joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>, 2021.
+* <a href="https://documents1.worldbank.org/curated/en/727041624328488778/pdf/The-Falling-Price-of-Cement-in-Africa.pdf" target="_blank">The Falling Price of Cement in Africa</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>. BREAD WP 589. CEPR DP 16253. June 2021.
 
 
  
