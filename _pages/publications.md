@@ -10,7 +10,8 @@ Working Papers
 -----
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931208" target="_blank">Multinational Enterprises, Technology Transfers, and Robot Adoption.</a> September 2021.
     * Best paper prize at <a href="https://www.dropbox.com/s/pad1wvwys4rgyha/RIEF_prize.jpg?dl=0" target="_blank"> RIEF Meeting 2021 </a> and <a href="https://www.dropbox.com/s/sgmggo8epozxaf2/JEI_prize.pdf?dl=0" target="_blank"> Jornadas de Economía Industrial 2021. </a>
-* <a href="https://documents1.worldbank.org/curated/en/727041624328488778/pdf/The-Falling-Price-of-Cement-in-Africa.pdf" target="_blank">The Falling Price of Cement in Africa</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>. BREAD WP 589. CEPR DP 16253. June 2021.
+
+* <a href="https://drive.google.com/file/d/1pYfGNLoHwdl53_jOyG2K1b_rgrrVXQWg/view" target="_blank">Market Size, Markups, and International Price Dispersion in the Cement Industry</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" target="_blank">T. Reed</a>. September 2021. Policy Research Working Paper 9076. BREAD Working Paper 589. CEPR Discussion Paper 16253. 
 
 
  
