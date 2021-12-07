@@ -20,3 +20,4 @@ Work in Progress
 -----
 * "Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry", joint with <a href="https://sites.google.com/site/roccomacchiavello/" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" target="_blank">N. Pavanini</a>.
 * "Multinational Production Networks and Trade Participation", joint with <a href="https://sites.google.com/view/paola-conconi-website/" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" target="_blank">G. Magerman</a> and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" target="_blank">C. Thomas</a>.
+* "Multinationals’ Entry and Imperfect Competition in the Global Robotic Industry: Implications for Wages, Employment, and Welfare".
