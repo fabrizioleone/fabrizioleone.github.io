@@ -8,8 +8,5 @@ redirect_from:
 ---
 
 
-**Email**: <a href="mailto:fabrizio.leone@ulb.ac.be">fabrizio.leone@ulb.ac.be</a>
-
-**Office**: H.4.239 (Solbosch Campus, Université Libre de Bruxelles)
-
-**Postal Address**: Avenue F.D. Roosevelt, 50, CP 139 - 1050, Brussels
+**ULB Email**: <a href="mailto:fabrizio.leone@ulb.ac.be">fabrizio.leone@ulb.ac.be</a> 
+**LSE Email**: <a href="mailto:f.leone1@lse.ac.uk">f.leone1@lse.ac.uk</a>
