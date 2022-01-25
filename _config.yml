@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Fabrizio Leone"
   avatar           : "pic.jpg"
-  bio              : "PPhD Candidate in Economics at ECARES. Currently Visiting LSE."
+  bio              : "PhD Candidate in Economics at ECARES. Currently Visiting LSE."
   location         : "London"
   employer         : 
   pubmed           : 
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/12819500/fabrizio-leone
   steam            :
   tumblr           :
   twitter          : "@fabrizioleone93"
