@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 Working Papers 
 -----
 * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931208" target="_blank">Multinational Enterprises, Technology Transfers, and Robot Adoption.</a> September 2021.
