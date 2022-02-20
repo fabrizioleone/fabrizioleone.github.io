@@ -17,7 +17,9 @@ My **research interests** span **international trade** and **industrial organiza
 
 
 
+[normal link](https://www.google.com/)
 
+<a href="https://www.google.com/" style="text-decoration: none;">custom link</a>
 
 
 
