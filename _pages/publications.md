@@ -17,7 +17,7 @@ Working Papers
  
 Work in Progress
 -----
-* "Multinationals’ Entry and Imperfect Competition in the Global Robotic Industry: Implications for Wages, Employment, and Welfare".
+* "Multinationals’ Entry and Imperfect Competition in the Global Robotic Industry: Implications for Wages, Productivity, and Welfare".
 * "Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry", joint with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a>, <a href="https://sites.google.com/site/pmiquelflorensa/home" style="text-decoration: none" target="_blank">J.M. Florensa</a> and <a href="https://sites.google.com/site/nicolapavanini/" style="text-decoration: none" target="_blank">N. Pavanini</a>.
 * "Multinational Ownership and Trade Participation", joint with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">G. Magerman</a> and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" style="text-decoration: none" target="_blank">C. Thomas</a>.
 
