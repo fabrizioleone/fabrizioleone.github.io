@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-You can find the complete version of my CV <a href="https://www.dropbox.com/s/nzxgy9t6r7ox7q8/CV_FL.pdf?dl=0" style="text-decoration: none" target="_blank">here</a>.
+You can find the complete version of my CV <a href="https://www.dropbox.com/s/u6fp783w2ostqbg/CV_FL.pdf?dl=0" style="text-decoration: none" target="_blank">here</a>.
 
 Education
 ======
