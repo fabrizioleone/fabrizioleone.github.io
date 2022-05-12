@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+ - title: "Grants & Awards"
+    url: /grantsandawards/
   
   - title: "CV"
     url: /cv/
-    
-  - title: "Grants & Awards"
-    url: /grantsandawards/
     
   - title: "Contacts"
     url: /contacts/
