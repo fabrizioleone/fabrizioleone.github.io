@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Awards"
-permalink: /grantsandawards/
+title: "Talks"
+permalink: /talksandseminars/
 author_profile: true
 ---
 
