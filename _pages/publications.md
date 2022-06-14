@@ -8,7 +8,7 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://cep.lse.ac.uk/pubs/download/dp1854.pdf" style="text-decoration: none" target="_blank">Foreign Ownership and Robot Adoption</a> 
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931208" style="text-decoration: none" target="_blank">Foreign Ownership and Robot Adoption</a> 
    * Best paper prize at <a href="https://www.dropbox.com/s/pad1wvwys4rgyha/RIEF_prize.jpg?dl=0" style="text-decoration: none" target="_blank"> RIEF Meeting 2021 </a> and <a href="https://www.dropbox.com/s/sgmggo8epozxaf2/JEI_prize.pdf?dl=0" style="text-decoration: none" target="_blank"> Jornadas de Economía Industrial 2021. </a> Previously circulated as "Multinational Enterprises, Technology Transfers, and Robot Adoption"
 
 * <a href="https://drive.google.com/file/d/1Nd7yIw-hwEA7yJUEiqqvslvQafhh8PBG/view" style="text-decoration: none" target="_blank">Market Size, Markups, and International Price Dispersion in the Cement Industry</a>, joint with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">T. Reed</a>.  Policy Research Working Paper 9076. BREAD Working Paper 589. CEPR Discussion Paper 16253 
