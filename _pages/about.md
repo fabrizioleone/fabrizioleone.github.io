@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD Student in Economics** at <a href="https://ecares.ulb.be/" style="text-decoration: none" target="_blank">Université Libre de Bruxelles - ECARES</a>. 
+I am a **PhD Student in Economics** at <a href="https://ecares.ulb.be/" style="text-decoration: none" target="_blank">Université Libre de Bruxelles - ECARES</a> and a **Research Fellow** at <a href="https://www.frs-fnrs.be/en/" style="text-decoration: none" target="_blank">F.R.S. - F.N.R.S.</a> 
 
 My **research interests** span **international trade** and **industrial organization**, with a focus on multinational enterprises, value chains, and technological change. I am also interested in development and labor economics.  My supervisors are <a href="http://mathieuparenti.weebly.com/" style="text-decoration: none" target="_blank">Mathieu Parenti</a> and <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">Paola Conconi</a>.
 
