@@ -11,6 +11,7 @@ author_profile: true
 - Best paper prize, XXXV Jornadas de Economia Industrial, 2021
 
 **Scholarships**
+- F.R.S. - F.N.R.S. Research Fellowship, 2022 - 2024
 - Doctoral Scholarship, ECARES (Université Libre de Bruxelles), 2019 - 2022
 - Koopmans Scholarship for Research Master Students, Tilburg Universiteit, 2017 - 2019
 - Scholarship for Master Students, Universidad Carlos III de Madrid, 2015 - 2017
