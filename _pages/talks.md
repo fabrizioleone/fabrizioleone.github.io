@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Upcoming Talks**
-- Coming soon...
+- 11th EIEF-IGIER-UNIBO Workshop on Industrial Organization, December 19-20, 2022
 
  
 **Recent Talks**
