@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-You can find the complete version of my CV <a href="https://github.com/fabrizioleone/Resume/blob/main/CV_FL.pdf" style="text-decoration: none" target="_blank">here</a>
+You can find the complete version of my CV <a href="https://github.com/fabrizioleone/Resume/blob/main/CV_FL.pdf" style="text-decoration: none" target="_blank">here</a>.
 
 
 Education
