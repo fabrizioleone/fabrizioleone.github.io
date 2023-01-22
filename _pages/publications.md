@@ -8,10 +8,10 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3931208" style="text-decoration: none" target="_blank">Foreign Ownership and Robot Adoption</a>
-  * Best paper prize at <a href="https://www.dropbox.com/s/pad1wvwys4rgyha/RIEF_prize.jpg?dl=0" style="text-decoration: none" target="_blank"> RIEF Meeting 2021</a>, <a href="https://www.dropbox.com/s/sgmggo8epozxaf2/JEI_prize.pdf?dl=0" style="text-decoration: none" target="_blank"> <a href="https://www.dropbox.com/s/sgmggo8epozxaf2/JEI_prize.pdf?dl=0" style="text-decoration: none" target="_blank"> Jornadas de Economía Industrial 2021</a>, and <a href="https://www.dropbox.com/s/0lkjbiss24m70v0/SIEPI%20prize.pdf?dl=0" style="text-decoration: none" target="_blank"> SIEPI Workshop 2022 </a>
+* <a href="https://www.dropbox.com/s/1h9rbxarrgiip02/MNEs%2C%20Robots%2C%20and%20the%20Labor%20Share%20-%20Fabrizio%20Leone.pdf?dl=0" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a>
+  * Best paper prize at RIEF Meeting 2021, Jornadas de Economía Industrial 2021, and SIEPI Workshop 2022
 * <a href="https://drive.google.com/file/d/1-Tx0bT0NvQb40myRGKLGiu-FKHkmewil/view" style="text-decoration: none" target="_blank">The Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://www.worldbank.org/en/about/people/t/tristan-reed" style="text-decoration: none" target="_blank">T. Reed</a> 
-  * Non-technical summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
+  * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
 * <a href="https://conconi.ulb.be/CLMT.pdf" style="text-decoration: none" target="_blank">Multinational Ownership and Trade Participation</a>, with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">G. Magerman</a>, and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" style="text-decoration: none" target="_blank">C. Thomas</a>. *Preliminary Version*
 
  
