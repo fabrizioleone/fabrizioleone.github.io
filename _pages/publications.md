@@ -8,7 +8,7 @@ author_profile: true
 Working Papers 
 -----
 
-* <a href="https://www.dropbox.com/s/1h9rbxarrgiip02/MNEs%2C%20Robots%2C%20and%20the%20Labor%20Share%20-%20Fabrizio%20Leone.pdf?dl=0" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a>
+* <a href="https://cep.lse.ac.uk/pubs/download/dp1900.pdf" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a>
   * Best paper prize at RIEF Meeting 2021, Jornadas de Economía Industrial 2021, and SIEPI Workshop 2022
 * <a href="https://drive.google.com/file/d/1-Tx0bT0NvQb40myRGKLGiu-FKHkmewil/view" style="text-decoration: none" target="_blank">The Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://www.worldbank.org/en/about/people/t/tristan-reed" style="text-decoration: none" target="_blank">T. Reed</a> 
   * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
