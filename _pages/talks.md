@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 **Upcoming Talks**
-- Coming soon...
+- <a href="https://www.monash.edu/business/research/our-research/impact-labs/soda-labs/our-events/applied-young-economists" style="text-decoration: none" target="_blank">Applied Young Economist Webinar (AYEW)</a> - March 15, 2023
+- ECARES Seminar - May 23, 2023
+- Leuven-Louvain Trade Workshop - May 31, 2023
+- LSE International Economics Workshop - June 14, 2023
 
  
 **Recent Talks**
