@@ -12,7 +12,7 @@ Working Papers
   * Best paper prize at RIEF Meeting 2021, Jornadas de Economía Industrial 2021, and SIEPI Workshop 2022
 * <a href="https://drive.google.com/file/d/1-Tx0bT0NvQb40myRGKLGiu-FKHkmewil/view" style="text-decoration: none" target="_blank">The Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://www.worldbank.org/en/about/people/t/tristan-reed" style="text-decoration: none" target="_blank">T. Reed</a> 
   * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
-* <a href="https://conconi.ulb.be/CLMT.pdf" style="text-decoration: none" target="_blank">Multinational Ownership and Trade Participation</a>, with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">G. Magerman</a>, and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" style="text-decoration: none" target="_blank">C. Thomas</a>. *Preliminary Version*
+* <a href="https://conconi.ulb.be/CLMT.pdf" style="text-decoration: none" target="_blank">Multinational Ownership and Trade Participation</a>, with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">P. Conconi</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">G. Magerman</a>, and <a href="https://www.lse.ac.uk/management/people/academic-staff/cthomas" style="text-decoration: none" target="_blank">C. Thomas</a>
 
  
  
