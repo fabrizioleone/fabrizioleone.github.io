@@ -11,6 +11,8 @@ author_profile: true
 - <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">13th International Conference on Economics of Global Interactions </a>  - September 11-12, 2023
 - <a href="https://www.etsg.org" style="text-decoration: none" target="_blank">European Trade Study Group (ETSG) </a>  - September 14-16, 2023
 - <a href="https://eale2023prague.eu" style="text-decoration: none" target="_blank">European Association of Labor Economists (EALE)</a> - September 21-23, 2023
+- ECARES seminar - October 13, 2023
+- 1st UA Eco Junior Workshop - October 17-18, 2023
  
 **Recent Talks**
 - <a href="https://workshop.webs.uvigo.es" style="text-decoration: none" target="_blank">Workshop on Dynamic Macroeconomics </a>  - July 11-13, 2023
