@@ -7,7 +7,7 @@ author_profile: true
 
 Job Market Paper 
 -----
-* Global Robots *(Draft coming soon. Email me for a copy)*
+* Global Robots *(Draft coming soon. Send me an <a href="mailto:fabrizio.leone@ulb.ac.be">email</a> for a copy)*
 
 
 Working Papers 
