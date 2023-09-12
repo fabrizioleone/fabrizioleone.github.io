@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 **Best Paper Prizes**
-- Best paper prize, XX SIEPI Workshop, 2022
+- Best paper prize (Wim Meeusen), XIII Economics of Global Interactions Workshop, 2023
+- Best paper prize (Fabio Gobbo), XX SIEPI Workshop, 2022
 - Best paper prize, XX RIEF Doctoral Meeting, 2021
 - Best paper prize, XXXV Jornadas de Economia Industrial, 2021
 
