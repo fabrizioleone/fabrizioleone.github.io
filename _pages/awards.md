@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 **Best Paper Prizes**
-- Best paper prize (Wim Meeusen), XIII Economics of Global Interactions Workshop, 2023
-- Best paper prize (Fabio Gobbo), XX SIEPI Workshop, 2022
-- Best paper prize, XX RIEF Doctoral Meeting, 2021
-- Best paper prize, XXXV Jornadas de Economia Industrial, 2021
+- Best paper prize (Review of World Economics), Europan Trade Study Group, 2023
+- Best paper prize (Wim Meeusen), Economics of Global Interactions Workshop, 2023
+- Best paper prize (Fabio Gobbo), SIEPI Workshop, 2022
+- Best paper prize, RIEF Doctoral Meeting, 2021
+- Best paper prize, Jornadas de Economia Industrial, 2021
 
 **Scholarships**
 - F.R.S. - F.N.R.S. Research Fellowship, 2022 - 2024
