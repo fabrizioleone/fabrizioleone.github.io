@@ -20,4 +20,4 @@ author_profile: true
 - <a href="https://earie.org/earie-2023-rome/" style="text-decoration: none" target="_blank">European Association for Research in Industrial Economics (EARIE) </a>  - August 24-26, 2023
 
 
-See <a href="https://github.com/fabrizioleone/Resume/raw/main/CV_FL.pdf" style="text-decoration: none" target="_blank">here</a> for the full list of past and scheduled talks.
+See <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Leone.pdf" style="text-decoration: none" target="_blank">here</a> for the full list of past and scheduled talks.
