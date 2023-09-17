@@ -8,7 +8,7 @@ author_profile: true
 Job Market Paper 
 -----
 * Global Robots *(Draft coming soon. Send me an <a href="mailto:fabrizio.leone@ulb.ac.be">email</a> for a copy)*
-   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a>
+   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a> and <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>
  
 Working Papers 
 -----
