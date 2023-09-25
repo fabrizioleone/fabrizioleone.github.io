@@ -14,5 +14,5 @@ My research interests span **international trade** and **industrial organization
 
 My agenda is supported by a **research grant** from the <a href="https://www.frs-fnrs.be/en/" style="text-decoration: none" target="_blank">F.R.S. - F.N.R.S.</a>
 
-**I will be on the 2023/2024 job market**.
+**I will be on the 2023/2024 academic job market for economists**.
 
