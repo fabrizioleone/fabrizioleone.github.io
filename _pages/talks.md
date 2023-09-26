@@ -14,10 +14,10 @@ author_profile: true
 - Bocconi Trade Tea Seminar - November 8, 2023
  
 **Recent Talks**
+- PhD Workshop University of Bologna - September 21-24, 2023
 - <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">13th International Conference on Economics of Global Interactions </a>  - September 11-12, 2023
 - <a href="https://www.etsg.org" style="text-decoration: none" target="_blank">European Trade Study Group (ETSG) </a>  - September 14-16, 2023
 - <a href="https://www.eea-esem-congresses.org" style="text-decoration: none" target="_blank">European Economic Association  </a>  - August 28-September 1, 2023
-- <a href="https://earie.org/earie-2023-rome/" style="text-decoration: none" target="_blank">European Association for Research in Industrial Economics (EARIE) </a>  - August 24-26, 2023
 
 
 See <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Leone.pdf" style="text-decoration: none" target="_blank">here</a> for the full list of past and scheduled talks.
