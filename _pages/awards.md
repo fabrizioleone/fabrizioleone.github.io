@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Best Paper Prizes**
-- Young Economist Best Presentation Award by Marco Fanno Association and Unicredit Foundation, 2023
+- Young Economist Best Presentation Award, Bologna PhD Workshop, 2023
 - Best paper prize (Review of World Economics), Europan Trade Study Group, 2023
 - Best paper prize (Wim Meeusen), Economics of Global Interactions Workshop, 2023
 - Best paper prize (Fabio Gobbo), SIEPI Workshop, 2022
