@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **PhD Candidate** in **Economics** at <a href="https://ecares.ulb.be/" style="text-decoration: none" target="_blank">ECARES (ULB)</a>, currently visiting the <a href="https://cep.lse.ac.uk/" style="text-decoration: none" target="_blank">CEP</a> and the <a href="https://www.lse.ac.uk/management" style="text-decoration: none" target="_blank">Management Department</a> at <a href="https://lse.ac.uk/" style="text-decoration: none" target="_blank">LSE</a>.
+I am a **PhD Candidate** in **Economics** at <a href="https://ecares.ulb.be/" style="text-decoration: none" target="_blank">ECARES (ULB)</a>. Since January 2022, I have been visiting the <a href="https://cep.lse.ac.uk/" style="text-decoration: none" target="_blank">CEP</a> and the <a href="https://www.lse.ac.uk/management" style="text-decoration: none" target="_blank">Management Department</a> at <a href="https://lse.ac.uk/" style="text-decoration: none" target="_blank">LSE</a>.
 
 My main field of research is **international trade**. I am also interested in industrial organization, development, and labor economics. 
 
-My agenda is supported by a **research grant** from the <a href="https://www.frs-fnrs.be/en/" style="text-decoration: none" target="_blank">F.R.S. - F.N.R.S.</a>
+My research agenda is supported by a **grant** from the <a href="https://www.frs-fnrs.be/en/" style="text-decoration: none" target="_blank">F.R.S. - F.N.R.S.</a>
 
-**I will be on the 2023/2024 academic job market for economists**.
+**I will be on the 2023/2024 academic job market**.
 
