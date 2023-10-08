@@ -22,8 +22,7 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
 Job Market Paper 
 -----
 * Global Robots *(Draft coming soon. Send me an <a href="mailto:fabrizio.leone@ulb.ac.be">email</a> for a copy)*
-   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a> and <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>
-   * Young Economist Best Presentation Award by Marco Fanno Association and Unicredit Foundation
+   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a>, <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>, ad Bologna PhD Workshop 2023
  
 Working Papers 
 -----
