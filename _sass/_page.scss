@@ -50,6 +50,8 @@
 
 .page__content {
 
+   text-align: justify;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
@@ -61,7 +63,6 @@
 
   /* paragraph indents */
   p {
-    text-align: justify;
     margin: 0 0 $indent-var;
 
     /* sibling indentation*/
