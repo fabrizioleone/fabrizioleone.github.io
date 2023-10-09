@@ -22,7 +22,7 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
 Working Papers 
 -----
 * Global Robots (**Job Market Paper**)
-   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a>, <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>, ad Bologna PhD Workshop 2023
+   * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a>, <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>, and Bologna PhD Workshop 2023
    * Draft coming soon. Send me an <a href="mailto:fabrizio.leone@ulb.ac.be">email</a> for a copy)
 * <a href="https://drive.google.com/file/d/1-Tx0bT0NvQb40myRGKLGiu-FKHkmewil/view" style="text-decoration: none" target="_blank">The Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">T. Reed</a> 
   * Revise and Resubmit at **American Economic Journal: Applied Economics**
