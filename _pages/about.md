@@ -25,7 +25,7 @@ Working Papers
    * Best paper prize at <a href="https://www.uniba.it/it/ricerca/dipartimenti/dse/e.g.i" style="text-decoration: none" target="_blank">EGI 2023</a>, <a href="https://www.etsg.org/award-winners.html" style="text-decoration: none" target="_blank">ETSG 2023</a>, and Bologna PhD Workshop 2023
    * Draft coming soon. Send me an <a href="mailto:fabrizio.leone@ulb.ac.be">email</a> for a copy)
 * <a href="https://drive.google.com/file/d/1-Tx0bT0NvQb40myRGKLGiu-FKHkmewil/view" style="text-decoration: none" target="_blank">The Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">R. Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">T. Reed</a> 
-  * Revise and Resubmit at *American Economic Journal: Applied Economics*
+  * Revise and Resubmit at ***American Economic Journal: Applied Economics***
   * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
 * <a href="https://cep.lse.ac.uk/pubs/download/dp1900.pdf" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a>
   * Best paper prize at <a href="https://sites.google.com/site/riefnetwork/home" style="text-decoration: none" target="_blank">RIEF 2021</a>, <a href="http://asesec.org/jornadas_economia_industrial/2021/" style="text-decoration: none" target="_blank">JEI 2021</a>, and <a href="https://siepi.org/premio-dottorale-siepi-prof-gobbo/" style="text-decoration: none" target="_blank">SIEPI 2022</a>
