@@ -9,7 +9,7 @@ redirect_from:
 
 
 **Université Libre de Bruxelles**
-* Email: <a href="mailto:fabrizio.leone@ulb.ac.be">fabrizio.leone@ulb.ac.be</a> 
+* Email: <a href="mailto:fabrizio.leone@ulb.be">fabrizio.leone@ulb.be</a> 
 * Address: Avenue F.D. Roosevelt, 50, CP 139 - 1050, Brussels
 * Office: H.4.239
 
