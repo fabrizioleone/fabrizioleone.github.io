@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 **Upcoming Talks**
-
 - ECARES seminar - October 13, 2023
-- 1st UA Eco Junior Workshop - October 17-18, 2023
+- <a href="http://fae.ua.es/FAEX/eco-junior-workshop/" style="text-decoration: none" target="_blank">1st UA Eco Junior Workshop</a> - October 17-18, 2023
 - Cambridge Trade Workshop - November 3, 2023
 - Bocconi Trade Tea Seminar - November 8, 2023
 - <a href="https://www.suerf.org/enri2023" style="text-decoration: none" target="_blank">Investment and Competitiveness in a Changing World</a> - November 29-30,  2023
