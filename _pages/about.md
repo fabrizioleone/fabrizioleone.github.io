@@ -15,7 +15,7 @@ My research agenda is supported by a grant from the <a href="https://www.frs-fnr
 
 You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Leone.pdf" style="text-decoration: none" target="_blank">here</a>.
 
-I will be on the 2023/2024 academic job market.
+**I will be on the 2023/2024 academic job market**.
 
 <hr style="border:1px solid gray">
  
