@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Upcoming Talks**
-- <a href="https://www.econometricsociety.org/regional-activities/schedule/2023/12/17/2023-EWMES-Manchester-United-Kingdom" style="text-decoration: none" target="_blank">European Winter Meeting of the Econometric Society</a> - December 17-19, 2023
+- Coming soon!
  
 **Recent Talks**
 - <a href="https://www.suerf.org/enri2023" style="text-decoration: none" target="_blank">Investment and Competitiveness in a Changing World</a> - November 29-30,  2023
