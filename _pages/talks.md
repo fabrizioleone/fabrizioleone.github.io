@@ -6,7 +6,10 @@ author_profile: true
 ---
 
 **Upcoming Talks**
-- Coming soon!
+- <a href="https://www.freit.org/EITI/2024/" style="text-decoration: none" target="_blank">Empirical Investigations in Trade and Investment Conference</a> - March 7-9, 2024
+
+
+
  
 **Recent Talks**
 - <a href="https://www.suerf.org/enri2023" style="text-decoration: none" target="_blank">Investment and Competitiveness in a Changing World</a> - November 29-30,  2023
