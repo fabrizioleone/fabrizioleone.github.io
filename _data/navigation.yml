@@ -1,11 +1,11 @@
 # main links links
 main:
-    
+
+  - title: "Research"
+    url: /publications/
+     
   - title: "Awards"
     url: /grantsandawards/
-
-  - title: "Teaching"
-    url: /teaching/  
   
   - title: "Talks"
     url: /talksandseminars/
