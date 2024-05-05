@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 **Best Paper Prizes**
+- Best paper prize, CESifo Area Conference on Global Economy, 2024
+- Best paper prize, RIEF Doctoral Meeting, 2024
 - Young Economist Best Presentation Award, Bologna PhD Workshop, 2023
 - Best paper prize (Review of World Economics), Europan Trade Study Group, 2023
 - Best paper prize (Wim Meeusen), Economics of Global Interactions Workshop, 2023
