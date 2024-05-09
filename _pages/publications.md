@@ -9,7 +9,7 @@ Working Papers
 -----
 
 * <a href="https://drive.google.com/file/d/1lEYjHKNP-6shP747wZOk_7ZIF1cfdnpl/view" style="text-decoration: none" target="_blank">The High and Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">Tristan Reed</a> 
-  * Revise and Resubmit at ***American Economic Journal: Applied Economics***
+  * Conditionally accepted at ***American Economic Journal: Applied Economics***
   * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
 * <a href="https://conconi.ulb.be/CLMT.pdf" style="text-decoration: none" target="_blank">Multinational Networks and Trade Participation</a>, with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">Paola Conconi</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">Glenn Magerman</a>, and <a href="https://www.cmathomas.com" style="text-decoration: none" target="_blank">Catherine Thomas</a>
 * <a href="https://fabrizioleone.github.io/files/Global_Robots_Fabrizio_Leone_JMP.pdf" style="text-decoration: none" target="_blank">Global Robots</a> 
