@@ -7,7 +7,7 @@ author_profile: true
 
 Publications 
 -----
-* <a href="https://fabrizioleone.github.io/files/The_High_but_Falling_Price_of_Cement_in_Africa_LMR.pdf" style="text-decoration: none" target="_blank">The High and Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">Tristan Reed</a> 
+* <a href="https://fabrizioleone.github.io/files/The_High_and_Falling_Price_of_Cement_in_Africa_LMR.pdf" style="text-decoration: none" target="_blank">The High and Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="text-decoration: none" target="_blank">Tristan Reed</a> 
   * Conditionally accepted at ***American Economic Journal: Applied Economics***
   * Summary at <a href="https://blogs.worldbank.org/developmenttalk/why-price-cement-so-high-africa" style="text-decoration: none" target="_blank">World Bank Blog</a>
   
