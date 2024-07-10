@@ -24,7 +24,6 @@ Working Papers
 Work in Progress
 -----
 * Vertical Integration and Inter-Firm Relationships: Evidence from the Costa Rica Coffee Chain, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://www.tse-fr.eu/people/josepa-miquel-florensa" style="text-decoration: none" target="_blank">Josepa Miquel-Florensa</a>
-  * Reject and Resubmit at ***The Review of Economic Studies***. New version soon! 
 * Market Structure, Vertical Integration and Farmers' Welfare in the Costa Rica Coffee Industry, with <a href="https://sites.google.com/site/roccomacchiavello/" style="text-decoration: none" target="_blank">Rocco Macchiavello</a>, <a href="https://www.tse-fr.eu/people/josepa-miquel-florensa" style="text-decoration: none" target="_blank">Josepa Miquel-Florensa</a>, and <a href="https://sites.google.com/site/nicolapavanini/" style="text-decoration: none" target="_blank">Nicola Pavanini</a>
 * Trade Agreements and the Relationship between Global and Domestic Supply Chains, with <a href="https://sites.google.com/view/paola-conconi-website/" style="text-decoration: none" target="_blank">Paola Conconi</a>, <a href="https://www.linkedin.com/in/emmanuel-dhyne-1b654411a/?originalSubdomain=be" style="text-decoration: none" target="_blank">Emmanuel Dhyne</a>, <a href="http://www.glennmagerman.com/" style="text-decoration: none" target="_blank">Glenn Magerman</a>, and <a href="https://www.cmathomas.com" style="text-decoration: none" target="_blank">Catherine Thomas</a>
  
