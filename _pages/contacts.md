@@ -7,6 +7,16 @@ redirect_from:
   - /contacts
 ---
 
-* Email: <a href="mailto:fabrizio.leone@ulb.be">fabrizio.leone@ulb.be</a> 
-* Address: Avenue F.D. Roosevelt, 50, CP 139 - 1050, Brussels
-* Office: H.4.239
+**Email:**
+
+<a href="mailto:fabrizioleone93@gmail.com">fabrizioleone93@gmail.com</a> 
+
+
+**Work Address:**
+
+Bank of Italy
+
+Via Nazionale, 91
+
+00184 - Rome (IT)
+
