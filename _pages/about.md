@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a **Research Fellow** at the <a href="https://www.bancaditalia.it/homepage/index.html" style="text-decoration: none" target="_blank">Bank of Italy</a> and a Research Affiliate at <a href="https://www.cesifo.org/en" style="text-decoration: none" target="_blank">CESifo</a>.
+I am a **Research Fellow** at the <a href="https://www.bancaditalia.it/homepage/index.html" style="text-decoration: none" target="_blank">Bank of Italy</a>. I am also a Research Affiliate at <a href="https://www.cesifo.org/en" style="text-decoration: none" target="_blank">CESifo</a>.
 
 I obtained my PhD in Economics from <a href="https://ecares.ulb.be/" style="text-decoration: none" target="_blank">ECARES (ULB)</a>. I visited the <a href="https://lse.ac.uk/" style="text-decoration: none" target="_blank">LSE</a> in 2022 and 2023. 
 
