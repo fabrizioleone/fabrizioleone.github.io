@@ -9,7 +9,11 @@ redirect_from:
 
 **Email:**
 
-<a href="mailto:fabrizioleone93@gmail.com">fabrizioleone93@gmail.com</a> 
+Personal: <a href="mailto:fabrizioleone93@gmail.com">fabrizioleone93@gmail.com</a>
+
+Work: <a href="mailto:fabrizio.leone@esterni.bancaditalia.it">fabrizio.leone@esterni.bancaditalia.it</a> 
+
+
 
 
 **Work Address:**
