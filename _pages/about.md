@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### About
-
 I am a **Research Fellow** at the <a href="https://www.bancaditalia.it/homepage/index.html" style="text-decoration: none" target="_blank">Bank of Italy</a>. I am also a Research Affiliate at <a href="https://www.cesifo.org/en" style="text-decoration: none" target="_blank">CESifo</a>. 
 
 My main field of research is **international trade**. I am also interested in industrial organization, labor, and development.
