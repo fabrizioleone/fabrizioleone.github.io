@@ -22,8 +22,8 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
   
 ### Working Papers 
 
+* <a href="https://fabrizioleone.github.io/files/Multinationals_Robots_Labor_Share_Fabrizio_Leone.pdf" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a> <a style="color: gray; text-decoration: none" target="_blank">[Best paper prize at SIEPI 2022, RIEF 2021, JEI 2021]</a>. ***Revise & Resubmit at European Economic Review***
 * <a href="https://fabrizioleone.github.io/files/Global_Robots_Fabrizio_Leone_JMP.pdf" style="text-decoration: none" target="_blank">Global Robots</a> <a style="color: gray; text-decoration: none" target="_blank">[Best paper prize at CESifo Area Conference on Global Economy 2024, RIEF 2024, ETSG 2023, EGI 2023, and Bologna PhD Workshop]</a>
-* <a href="https://fabrizioleone.github.io/files/Multinationals_Robots_Labor_Share_Fabrizio_Leone.pdf" style="text-decoration: none" target="_blank">Multinationals, Robots, and the Labor Share</a> <a style="color: gray; text-decoration: none" target="_blank">[Best paper prize at SIEPI 2022, RIEF 2021, JEI 2021]</a>
 * <a href="https://conconi.ulb.be/CLMT.pdf" style="text-decoration: none" target="_blank">Multinational Networks and Trade Participation</a>, with <a href="https://sites.google.com/view/paola-conconi-website/" style="color: black; text-decoration: underline" target="_blank">Paola Conconi</a>, <a href="http://www.glennmagerman.com/" style="color: black; text-decoration: underline" target="_blank">Glenn Magerman</a>, and <a href="https://www.lse.ac.uk/management/people/academic-staff/catherine-thomas" style="color: black; text-decoration: underline" target="_blank">Catherine Thomas</a>
 
  
