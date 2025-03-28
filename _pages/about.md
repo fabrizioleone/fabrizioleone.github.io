@@ -18,7 +18,7 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
 
 ### Publications
 
-* <a href="https://fabrizioleone.github.io/files/The_High_and_Falling_Price_of_Cement_in_Africa_LMR.pdf" style=" text-decoration: none" target="_blank">The High and Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="color: black;text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="color: black; text-decoration: none" target="_blank">Tristan Reed</a>. ***American Economic Journal: Applied Economics*** (Forthcoming) <a href="https://voxdev.org/topic/trade/why-are-cement-prices-high-falling-africa" style="color: gray; text-decoration: underline" target="_blank">[VoxDev Blog]</a>
+* <a href="https://www.aeaweb.org/articles?id=10.1257/app.20230352" style=" text-decoration: none" target="_blank">The High and Falling Price of Cement in Africa</a>, with <a href="https://sites.google.com/site/roccomacchiavello/" style="color: black;text-decoration: none" target="_blank">Rocco Macchiavello</a> and <a href="https://sites.google.com/view/tristanreed/home" style="color: black; text-decoration: none" target="_blank">Tristan Reed</a>. ***American Economic Journal: Applied Economics***, 2025. Vol 17(2), pp. 1-40. <a href="https://fabrizioleone.github.io/files/The_High_and_Falling_Price_of_Cement_in_Africa_LMR.pdf" style="color: gray; text-decoration: underline" target="_blank">[Working Paper]</a> <a href="https://voxdev.org/topic/trade/why-are-cement-prices-high-falling-africa" style="color: gray; text-decoration: underline" target="_blank">[VoxDev Blog]</a>
   
 ### Working Papers 
 
