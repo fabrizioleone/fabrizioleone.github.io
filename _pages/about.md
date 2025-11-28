@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Research Fellow** at the <a href="https://www.bancaditalia.it/homepage/index.html" style="text-decoration: none" target="_blank">Bank of Italy</a>. I am also a Research Affiliate at <a href="https://www.cesifo.org/en" style="text-decoration: none" target="_blank">CESifo</a>. 
+I am a **Research Fellow** at the <a href="https://www.bancaditalia.it/homepage/index.html" style="text-decoration: none" target="_blank">Bank of Italy</a>. 
+
+I am also a Research Affiliate at <a href="https://cepr.org/research/programme-areas/international-trade-and-regional-economics" style="text-decoration: none" target="_blank">CEPR (International Trade and Regional Economics)</a> and 
+<a href="https://www.ifo.de/en/cesifo/research-network-area/global-economy" style="text-decoration: none" target="_blank">CESifo (Area Global Economy)</a>. 
 
 My main field of research is **international trade**. I am also interested in industrial organization, labor, and development.
 
