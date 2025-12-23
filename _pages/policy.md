@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Policy Work"
-permalink: /contacts/
+permalink: /policy/
 author_profile: true
 redirect_from:
   - /contacts
