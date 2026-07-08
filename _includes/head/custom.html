@@ -2,6 +2,17 @@
 
 <!-- start custom head snippets -->
 
+<!-- critical theme-toggle styling, inlined so the icons are never unsized
+     while the external stylesheet is still loading (prevents a giant sun/moon flash) -->
+<style>
+  .theme-toggle { display: inline-flex; align-items: center; gap: 0.4rem; line-height: 1; }
+  .theme-toggle svg { width: 15px; height: 15px; fill: currentColor; }
+  .theme-toggle__face { display: inline-flex; align-items: center; gap: 0.4rem; }
+  .theme-toggle__light { display: none; }
+  [data-theme="dark"] .theme-toggle__dark { display: none; }
+  [data-theme="dark"] .theme-toggle__light { display: inline-flex; }
+</style>
+
 <!-- theme (light/dark) — set before paint to avoid a flash -->
 <script>
   (function () {
