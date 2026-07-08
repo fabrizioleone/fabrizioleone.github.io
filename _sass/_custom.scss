@@ -169,9 +169,14 @@ a.pub-badge:hover {
   background: $accent;
   border-bottom: 0;
 }
-.pub-badge--award {
+.pub-badge--award,
+a.pub-badge--award {
   color: $award-color;
   background: mix(#fff, #b8860b, 82%);
+}
+a.pub-badge--award:hover {
+  color: #fff;
+  background: $award-color;
 }
 
 
