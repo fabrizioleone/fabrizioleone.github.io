@@ -2,6 +2,46 @@
 
 <!-- start custom head snippets -->
 
+<!-- theme (light/dark) — set before paint to avoid a flash -->
+<script>
+  (function () {
+    var KEY = 'theme';
+    function preferred() {
+      try { var s = localStorage.getItem(KEY); if (s === 'dark' || s === 'light') return s; } catch (e) {}
+      return (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light';
+    }
+    function apply(t) {
+      document.documentElement.setAttribute('data-theme', t);
+      var meta = document.querySelector('meta[name="theme-color"]');
+      if (meta) meta.setAttribute('content', t === 'dark' ? '#211d1a' : '#ffffff');
+      var btns = document.getElementsByClassName('theme-toggle');
+      for (var i = 0; i < btns.length; i++) {
+        btns[i].setAttribute('aria-pressed', t === 'dark' ? 'true' : 'false');
+        var lbl = (t === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+        btns[i].setAttribute('aria-label', lbl);
+        btns[i].setAttribute('title', lbl);
+      }
+    }
+    window.toggleTheme = function () {
+      var cur = (document.documentElement.getAttribute('data-theme') === 'dark') ? 'dark' : 'light';
+      var next = (cur === 'dark') ? 'light' : 'dark';
+      try { localStorage.setItem(KEY, next); } catch (e) {}
+      apply(next);
+    };
+    apply(preferred());
+    document.addEventListener('click', function (e) {
+      var el = e.target;
+      while (el && el !== document) {
+        if (el.classList && el.classList.contains('theme-toggle')) { e.preventDefault(); window.toggleTheme(); return; }
+        el = el.parentNode;
+      }
+    });
+    document.addEventListener('DOMContentLoaded', function () {
+      apply(document.documentElement.getAttribute('data-theme') || preferred());
+    });
+  })();
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
