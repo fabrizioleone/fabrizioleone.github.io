@@ -210,16 +210,17 @@ a.pub-badge--award:hover {
   text-align: center;
 }
 
+/* Portrait rounded rectangle: the source is 546x640, so height:auto shows the
+   whole frame uncropped. Fills the sidebar column; still ~3.4x device pixels. */
 .sidebar .author__avatar img {
-  width: 150px;
-  height: 150px;
-  max-width: 150px;
+  display: block;
+  width: 100%;
+  max-width: 165px;
+  height: auto;
   margin: 0 auto;
   padding: 0;
-  object-fit: cover;
-  object-position: center 18%;
   border: 4px solid #fff;
-  border-radius: 50%;
+  border-radius: 12px;
   outline: 1px solid $border-color;
   box-shadow: 0 14px 30px -16px rgba(#000, 0.55);
 }
