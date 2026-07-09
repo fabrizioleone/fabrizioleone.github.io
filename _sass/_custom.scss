@@ -70,7 +70,14 @@ body { background-color: #fdfcfb; }
 .page__content a:hover,
 .archive a:hover {
   color: mix(#000, $accent, 15%);
+  text-decoration: none;
   border-bottom-color: $accent;
+}
+
+/* The theme underlines the wrapping <h2> on hover; text-decoration on an
+   ancestor can't be cancelled by the <a>, so it must be removed here. */
+.archive__item:hover .archive__item-title {
+  text-decoration: none;
 }
 
 
