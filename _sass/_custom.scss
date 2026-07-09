@@ -60,18 +60,20 @@ body { background-color: #fdfcfb; }
 /* ---------------------------------------------------------------------------
    Consistent content links (replaces the old per-link inline styles)
    --------------------------------------------------------------------------- */
+/* No resting underline — links read by colour. The transparent border reserves
+   the space so the hover underline doesn't shift text. Co-authors opt back in. */
 .page__content a,
 .archive a {
   color: $accent;
   text-decoration: none;
-  border-bottom: 1px solid rgba($accent, 0.30);
+  border-bottom: 1px solid transparent;
   transition: color 0.15s ease-in-out, border-color 0.15s ease-in-out;
 }
 .page__content a:hover,
 .archive a:hover {
   color: mix(#000, $accent, 15%);
   text-decoration: none;
-  border-bottom-color: $accent;
+  border-bottom-color: currentColor;
 }
 
 /* The theme underlines the wrapping <h2> on hover; text-decoration on an
@@ -139,12 +141,11 @@ a.pub-title:hover {
   font-size: 0.9em;
   line-height: 1.5;
 }
-.pub-meta a,
+/* The one place that keeps a resting underline. */
 .pub-authors a {
   color: $ink;
   border-bottom: 1px solid rgba($ink, 0.22);
 }
-.pub-meta a:hover,
 .pub-authors a:hover {
   color: $ink;
   border-bottom-color: $ink;
@@ -428,8 +429,8 @@ $d-award-soft  : #38300f;
   .page__content h2::before, .page__content h3::before,
   .archive h2::before, .archive h3::before { background: $d-accent; }
 
-  .page__content a, .archive a { color: $d-accent; border-bottom-color: rgba($d-accent, 0.32); }
-  .page__content a:hover, .archive a:hover { color: mix(#fff, $d-accent, 15%); border-bottom-color: $d-accent; }
+  .page__content a, .archive a { color: $d-accent; border-bottom-color: transparent; }
+  .page__content a:hover, .archive a:hover { color: mix(#fff, $d-accent, 15%); border-bottom-color: currentColor; }
 
   /* publication list */
   .pub-list > li + li { border-top-color: $d-line; }
@@ -438,8 +439,8 @@ $d-award-soft  : #38300f;
   .pub-title--plain { color: $d-ink; }
   a.pub-title:hover { color: $d-accent; border-bottom-color: $d-accent; }
   .pub-meta, .pub-authors { color: $d-muted; }
-  .pub-meta a, .pub-authors a { color: $d-ink; border-bottom-color: rgba($d-ink, 0.30); }
-  .pub-meta a:hover, .pub-authors a:hover { color: $d-ink; border-bottom-color: $d-ink; }
+  .pub-authors a { color: $d-ink; border-bottom-color: rgba($d-ink, 0.30); }
+  .pub-authors a:hover { color: $d-ink; border-bottom-color: $d-ink; }
   .pub-journal { color: $d-ink; }
   .pub-badge { color: $d-accent; background: $d-accent-soft; }
   a.pub-badge:hover { color: $d-bg; background: $d-accent; }
