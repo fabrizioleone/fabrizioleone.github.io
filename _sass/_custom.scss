@@ -61,7 +61,7 @@ body { background-color: #fdfcfb; }
    Consistent content links (replaces the old per-link inline styles)
    --------------------------------------------------------------------------- */
 /* No resting underline — links read by colour. The transparent border reserves
-   the space so the hover underline doesn't shift text. Co-authors opt back in. */
+   the space so the hover underline doesn't shift text. */
 .page__content a,
 .archive a {
   color: $accent;
@@ -141,10 +141,10 @@ a.pub-title:hover {
   font-size: 0.9em;
   line-height: 1.5;
 }
-/* The one place that keeps a resting underline. */
+/* Ink-coloured rather than accent; underline only on hover, like every other link. */
 .pub-authors a {
   color: $ink;
-  border-bottom: 1px solid rgba($ink, 0.22);
+  border-bottom: 1px solid transparent;
 }
 .pub-authors a:hover {
   color: $ink;
@@ -439,7 +439,7 @@ $d-award-soft  : #38300f;
   .pub-title--plain { color: $d-ink; }
   a.pub-title:hover { color: $d-accent; border-bottom-color: $d-accent; }
   .pub-meta, .pub-authors { color: $d-muted; }
-  .pub-authors a { color: $d-ink; border-bottom-color: rgba($d-ink, 0.30); }
+  .pub-authors a { color: $d-ink; border-bottom-color: transparent; }
   .pub-authors a:hover { color: $d-ink; border-bottom-color: $d-ink; }
   .pub-journal { color: $d-ink; }
   .pub-badge { color: $d-accent; background: $d-accent-soft; }
