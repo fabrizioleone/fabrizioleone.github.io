@@ -124,11 +124,21 @@ a.pub-title:hover {
   font-size: 0.92em;
   line-height: 1.55;
 }
-.pub-meta a {
+/* co-authors on their own row, just below the journal line */
+.pub-authors {
+  display: block;
+  margin-top: 0.18em;
+  color: $muted;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+.pub-meta a,
+.pub-authors a {
   color: $ink;
   border-bottom: 1px solid rgba($ink, 0.22);
 }
-.pub-meta a:hover {
+.pub-meta a:hover,
+.pub-authors a:hover {
   color: $ink;
   border-bottom-color: $ink;
 }
@@ -416,9 +426,9 @@ $d-award-soft  : #38300f;
   .pub-title { color: $d-accent; }
   .pub-title--plain { color: $d-ink; }
   a.pub-title:hover { color: $d-accent; border-bottom-color: $d-accent; }
-  .pub-meta { color: $d-muted; }
-  .pub-meta a { color: $d-ink; border-bottom-color: rgba($d-ink, 0.30); }
-  .pub-meta a:hover { color: $d-ink; border-bottom-color: $d-ink; }
+  .pub-meta, .pub-authors { color: $d-muted; }
+  .pub-meta a, .pub-authors a { color: $d-ink; border-bottom-color: rgba($d-ink, 0.30); }
+  .pub-meta a:hover, .pub-authors a:hover { color: $d-ink; border-bottom-color: $d-ink; }
   .pub-journal { color: $d-ink; }
   .pub-badge { color: $d-accent; background: $d-accent-soft; }
   a.pub-badge:hover { color: $d-bg; background: $d-accent; }
