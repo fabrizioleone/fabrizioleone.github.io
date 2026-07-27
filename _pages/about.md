@@ -46,7 +46,7 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
   <span class="pub-tags"><a class="pub-badge pub-badge--award" href="https://www.cesifo.org/en/event/2024-05-03/cesifo-area-conference-global-economy-2024" target="_blank">Best Paper · CESifo Global Economy 2024</a><a class="pub-badge pub-badge--award" href="https://sites.google.com/site/riefnetwork/home" target="_blank">RIEF 2024</a><a class="pub-badge pub-badge--award" href="https://etsg.org/award-winners/review-of-world-economics-rowe-prize/" target="_blank">ETSG 2023</a></span>
 </li>
 <li>
-  <a class="pub-title" href="https://www.ifo.de/DocDL/cesifo1_wp12271.pdf" target="_blank">How Global are Local Value Chains?</a>
+  <a class="pub-title" href="https://fabrizioleone.github.io/files/How_Global_Are_Local_Value_Chains.pdf" target="_blank">How Global are Local Value Chains?</a>
   <span class="pub-meta"><span class="pub-status">Revision requested by the</span> <span class="pub-journal">Journal of Economic Geography (Special Issue)</span></span>
   <span class="pub-authors">with <a href="https://www.tradeconomics.com/borin/" target="_blank">Alessandro Borin</a>, <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, <a href="https://tradeconomics.com/mancini/" target="_blank">Michele Mancini</a>, and Patrick Zoi</span>
   <span class="pub-tags"><a class="pub-badge" href="https://cepr.org/voxeu/columns/hidden-exposures-domestic-supply-chains-spread-foreign-trade-risks" target="_blank">VoxEU Blog</a></span>
