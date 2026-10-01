@@ -22,7 +22,7 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
 <li>
   <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S0014292126000462?dgcid=author" target="_blank">Multinationals, Robots, and the Labor Share</a>
   <span class="pub-meta"><span class="pub-journal">European Economic Review</span>, 2026. Vol 186, 105302</span>
-  <span class="pub-tags"><a class="pub-badge" href="https://fabrizioleone.github.io/files/Multinationals_Robots_Labor_Share_Fabrizio_Leone.pdf" target="_blank">Working Paper</a><a class="pub-badge pub-badge--award" href="https://sites.google.com/site/riefnetwork/home" target="_blank">Best Paper · RIEF 2021</a></span>
+  <span class="pub-tags"><a class="pub-badge" href="https://fabrizioleone.github.io/files/Multinationals_Robots_Labor_Share_Fabrizio_Leone.pdf" target="_blank">Working Paper</a><a class="pub-badge" href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/when-multinationals-buy-robots-follow-foreign-takeovers-and-the-falling-labor-share/" target="_blank">SUERF Blog</a></span><a class="pub-badge pub-badge--award" href="https://sites.google.com/site/riefnetwork/home" target="_blank">Best Paper · RIEF 2021</a></span>
 </li>
 <li>
   <a class="pub-title" href="https://www.aeaweb.org/articles?id=10.1257/app.20230352" target="_blank">The High and Falling Price of Cement in Africa</a>
