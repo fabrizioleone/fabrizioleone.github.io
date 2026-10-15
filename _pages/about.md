@@ -20,6 +20,12 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
 
 <ul class="pub-list">
 <li>
+  <a class="pub-title" href="https://fabrizioleone.github.io/files/How_Global_Are_Local_Value_Chains.pdf" target="_blank">How Global are Local Value Chains?</a>
+  <span class="pub-meta"><span class="pub-status">Conditionally Accepted by the</span> <span class="pub-journal">Journal of Economic Geography </span></span>
+  <span class="pub-authors">with <a href="https://www.tradeconomics.com/borin/" target="_blank">Alessandro Borin</a>, <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, <a href="https://tradeconomics.com/mancini/" target="_blank">Michele Mancini</a>, and Patrick Zoi</span>
+  <span class="pub-tags"><a class="pub-badge" href="https://cepr.org/voxeu/columns/hidden-exposures-domestic-supply-chains-spread-foreign-trade-risks" target="_blank">VoxEU Blog</a></span>
+</li>
+<li>
   <a class="pub-title" href="https://www.sciencedirect.com/science/article/pii/S0014292126000462?dgcid=author" target="_blank">Multinationals, Robots, and the Labor Share</a>
   <span class="pub-meta"><span class="pub-journal">European Economic Review</span>, 2026. Vol 186, 105302</span>
   <span class="pub-tags"><a class="pub-badge" href="https://fabrizioleone.github.io/files/Multinationals_Robots_Labor_Share_Fabrizio_Leone.pdf" target="_blank">Working Paper</a><a class="pub-badge" href="https://www.suerf.org/publications/suerf-policy-notes-and-briefs/when-multinationals-buy-robots-follow-foreign-takeovers-and-the-falling-labor-share/" target="_blank">SUERF Blog</a><a class="pub-badge pub-badge--award" href="https://sites.google.com/site/riefnetwork/home" target="_blank">Best Paper RIEF 2021</a></span>
@@ -44,12 +50,6 @@ You can find my CV <a href="https://fabrizioleone.github.io/files/CV_Fabrizio_Le
   <a class="pub-title" href="https://fabrizioleone.github.io/files/Global_Robots_Fabrizio_Leone_JMP.pdf" target="_blank">Global Robots</a>
   <span class="pub-meta"><span class="pub-status">Revision requested by the</span> <span class="pub-journal">Journal of the European Economic Association</span></span>
   <span class="pub-tags"><a class="pub-badge pub-badge--award" href="https://www.cesifo.org/en/event/2024-05-03/cesifo-area-conference-global-economy-2024" target="_blank">Best Paper · CESifo Global Economy 2024</a><a class="pub-badge pub-badge--award" href="https://sites.google.com/site/riefnetwork/home" target="_blank">RIEF 2024</a><a class="pub-badge pub-badge--award" href="https://etsg.org/award-winners/review-of-world-economics-rowe-prize/" target="_blank">ETSG 2023</a></span>
-</li>
-<li>
-  <a class="pub-title" href="https://fabrizioleone.github.io/files/How_Global_Are_Local_Value_Chains.pdf" target="_blank">How Global are Local Value Chains?</a>
-  <span class="pub-meta"><span class="pub-status">Revision requested by the</span> <span class="pub-journal">Journal of Economic Geography (Special Issue)</span></span>
-  <span class="pub-authors">with <a href="https://www.tradeconomics.com/borin/" target="_blank">Alessandro Borin</a>, <a href="https://fpconteduca.com/" target="_blank">Francesco Paolo Conteduca</a>, <a href="https://tradeconomics.com/mancini/" target="_blank">Michele Mancini</a>, and Patrick Zoi</span>
-  <span class="pub-tags"><a class="pub-badge" href="https://cepr.org/voxeu/columns/hidden-exposures-domestic-supply-chains-spread-foreign-trade-risks" target="_blank">VoxEU Blog</a></span>
 </li>
 <li>
   <a class="pub-title" href="https://fabrizioleone.github.io/files/CELPR.pdf" target="_blank">The Impact of Trade Wars on Firms in Third Countries</a>
